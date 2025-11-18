@@ -1,0 +1,29 @@
+# Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+.env
+*.log
+venue_details.json
+marketing_report.md
+
+# Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# General
+.DS_Store
+.vscode/
+*.swp
+*.swo
